@@ -5,10 +5,12 @@ Simple UI: Clean and responsive user interface built with HTML and CSS.
 Interactive Gameplay: Users select between two options for each question.
 Dynamic Scoring: The game keeps track of correct answers and displays the final score at the end.
 Play Again: Option to reset and replay the quiz.
+
 **Technology Stack**
 HTML: Used for structuring the web pages.
 CSS: Used for styling the quiz game (layout, fonts, colors, etc.).
 JavaScript: Used for handling the game logic, updating scores, and interaction with the user.
+
 **How to Run**
 Clone the repository:
 git clone https://github.com/yourusername/this-or-that-quiz.git
@@ -25,6 +27,7 @@ Copy code
 ├── styles.css         # Styles for the quiz game
 ├── script.js          # JavaScript file containing the game logic
 └── README.md          # Readme file (you are here!)
+
 Game Logic
 Each question presents two options ("This" or "That").
 Users click on one of the options to answer.
